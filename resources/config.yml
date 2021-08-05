@@ -20,6 +20,8 @@ server-version: auto
 
 # Versions that are allowed to join the server
 allowed:
+  - 448 #1.17.10
+  - 440 #1.17
   - 422 # Beta 1.16.200.57
   - 390 # 1.14.60
   - 388 # 1.13.0
